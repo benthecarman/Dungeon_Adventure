@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Dungeon Adventure</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Confirm Password</string>
+    <string name="prompt_username">Username</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_create_account">Create Account</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_invalid_username">Invalid Username</string>
+    <string name="error_incorrect_password">Username or password is incorrect</string>
+    <string name="error_incorrect_username_and_email">No account found with matching username and email</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_email_taken">That email is already in use</string>
+    <string name="error_username_taken">That username is already in use</string>
+    <string name="error_passwords_do_not_match">Passwords do not match</string>
+    <string name="error_server_error">Server error, try again later</string>
+    <string name="error_bad_code">Bad code</string>
+    <string name="error_internet_connection">Error, make sure you are connected to the internet</string>
+    <string name="error_old_password_incorrect">Error, current password is incorrect</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_account_creation">Create an Account</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="remember_me">Remember me</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="old_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="action_change_password">Change Password</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="action_change_email">Change Email</string>
+    <string name="title_activity_change_email">Change Email</string>
+    <string name="error_email_do_not_match">Error, emails do not match</string>
+    <string name="new_email">New Email</string>
+    <string name="title_activity_change_username">Change Username</string>
+    <string name="new_username">New Username</string>
+    <string name="confirm_username">Confirm Username</string>
+    <string name="action_forgot_password">Forgot Password</string>
+    <string name="title_activity_forgot_password">Forgot Password</string>
+    <string name="action_next">next</string>
+    <string name="title_activity_add_friend">Add Friend</string>
+    <string name="error_already_sent">Error, friend request already sent</string>
+    <string name="error_add_self">Error, you cannot be friends with yourself</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Tanner\StudioProjects\SA_B_2_ProjectName\DungeonAdventure.iml" filepath="C:\Users\Tanner\StudioProjects\SA_B_2_ProjectName\DungeonAdventure.iml" />
+      <module fileurl="file://C:\Users\benth\AndroidStudioProjects\SA_B_2_ProjectName\DungeonAdventure.iml" filepath="C:\Users\benth\AndroidStudioProjects\SA_B_2_ProjectName\DungeonAdventure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SA_B_2_ProjectName.iml" filepath="$PROJECT_DIR$/SA_B_2_ProjectName.iml" />
+      <module fileurl="file://C:\Users\Armand\AndroidStudioProjects\DungeonAdventure\SA_B_2_ProjectName.iml" filepath="C:\Users\Armand\AndroidStudioProjects\DungeonAdventure\SA_B_2_ProjectName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
